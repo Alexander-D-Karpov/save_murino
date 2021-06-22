@@ -7,5 +7,6 @@
 - Провести анализ сценариев влияния реализации проекта на транспортную систему города или района с использованием транспортных моделей.
 - Оценить экономический и экологический эффект от реализации проекта.
 - Результат представить в виде презентации.
+[Презентация](https://www.canva.com/design/DAEiAFyevgc/HJpni1_kAMrtpXhbsnVayw/view?utm_content=DAEiAFyevgc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ![vissim](https://www.forum8.com/wp-content/uploads/2020/05/Logo_PTV_Vissim_300dpi_01-1.png)
 ![vissim](http://civitas.eu/sites/default/files/styles/tool_grid/public/ptv_traffic_visum.jpg?itok=_LeZ95TP)
